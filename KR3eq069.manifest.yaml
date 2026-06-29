@@ -1,0 +1,989 @@
+canonical_identifier: bkk:krp/KR3eq069/v1
+canonical_location: https://kanripo.org/bkk/KR3eq069/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 景景室醫槁雜存
+  identifiers:
+    krp: KR3eq069
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq069.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq069_000.yaml, hash: 'sha256:6f09ebbf5aecd4d70f3a9f652f83523ef9128ae5d260163bfabaaecb7a990960'}
+  - {seq: 4, filename: KR3eq069_004.yaml, hash: 'sha256:58afa352c1d2d4a215f9d4996e778aa268024efd29c93a67ad855228870ad014'}
+  - {seq: 0, filename: KR3eq069_000.yaml, hash: 'sha256:6f09ebbf5aecd4d70f3a9f652f83523ef9128ae5d260163bfabaaecb7a990960'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq069_000.markers.yaml, hash: 'sha256:f31cbf6c183585945deadb7810fa7afae015d1ce5e175d304bba4447242b8d26'}
+  - {seq: 4, role: markers, filename: assets/KR3eq069_004.markers.yaml, hash: 'sha256:8c74b5d407782c4e830e00c9186e899141d38ef4ecfc95a93761e8325d584e94'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d63.h1s1
+    span:
+    - front
+    - 0
+    - 989
+  label: 重訂溪醫述十種序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d64.h1s1
+    span:
+    - front
+    - 989
+    - 1483
+  label: 學醫便讀序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d68.h1s1
+    span:
+    - front
+    - 1483
+    - 1797
+  label: 要藥選序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d71.h1s1
+    span:
+    - front
+    - 1797
+    - 2596
+  label: 溪醫論選序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d72.h1s1
+    span:
+    - front
+    - 2596
+    - 2806
+  label: 溪醫方選序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d73.h1s1
+    span:
+    - front
+    - 2806
+    - 3125
+  label: 溪醫方選序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d74.h1s1
+    span:
+    - front
+    - 3125
+    - 3330
+  label: 溪醫案選摘要序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d76.h1s1
+    span:
+    - front
+    - 3330
+    - 3841
+  label: 醫論選序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d77.h1s1
+    span:
+    - front
+    - 3841
+    - 4262
+  label: 醫論選序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d81.h1s1
+    span:
+    - front
+    - 4262
+    - 4915
+  label: 香岩徑序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d82.h1s1
+    span:
+    - front
+    - 4915
+    - 5825
+  label: 香岩徑序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d83.h1s1
+    span:
+    - front
+    - 5825
+    - 6017
+  label: 溪內服單方選外治單方選合序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d85.h1s1
+    span:
+    - front
+    - 6017
+    - 6389
+  label: 靈素生理新論序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d86.h1s1
+    span:
+    - front
+    - 6389
+    - 6681
+  label: 嚴癡孫君金匱廣義序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 221
+  label: 氣化說
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d3.h1s1
+    span:
+    - body
+    - 221
+    - 660
+  label: 以藥治病關乎氣化說
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d4.h1s1
+    span:
+    - body
+    - 660
+    - 2001
+  label: 論人生體氣實分四種
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d5.h1s1
+    span:
+    - body
+    - 2001
+    - 3377
+  label: 論病有對待藥亦有對待
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d6.h1s1
+    span:
+    - body
+    - 3377
+    - 5912
+  label: 慎重性命者鑑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d7.h1s1
+    span:
+    - body
+    - 5912
+    - 6167
+  label: 治病不外陰陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d8.h1s1
+    span:
+    - body
+    - 6167
+    - 6477
+  label: 外感初起勿雜消導
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d9.h1s1
+    span:
+    - body
+    - 6477
+    - 6627
+  label: 男子亦有天癸天癸非即月經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d10.h1s1
+    span:
+    - body
+    - 6627
+    - 6663
+  label: 男子亦有熱入皿室症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d11.h1s1
+    span:
+    - body
+    - 6663
+    - 6727
+  label: 男子亦有血風症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d12.h1s1
+    span:
+    - body
+    - 6727
+    - 6834
+  label: 男子肌削氣急猶女子風消息賁又男子有血蠱症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d13.h1s1
+    span:
+    - body
+    - 6834
+    - 6868
+  label: 男子亦有乳汁
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d14.h1s1
+    span:
+    - body
+    - 6868
+    - 7038
+  label: 男子有類似交腸症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d15.h1s1
+    span:
+    - body
+    - 7038
+    - 7096
+  label: 男子亦有陰吹症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d16.h1s1
+    span:
+    - body
+    - 7096
+    - 7547
+  label: 論腥紅熱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d17.h1s1
+    span:
+    - body
+    - 7547
+    - 7986
+  label: 氣亦有錯經妄行症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d18.h1s1
+    span:
+    - body
+    - 7986
+    - 8060
+  label: 婦人亦有疝症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d19.h1s1
+    span:
+    - body
+    - 8060
+    - 8135
+  label: 婦女亦有孤陽病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d20.h1s1
+    span:
+    - body
+    - 8135
+    - 8253
+  label: 保胎當治其所以然
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d21.h1s1
+    span:
+    - body
+    - 8253
+    - 8372
+  label: 灸能傷陰針不治虛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d22.h1s1
+    span:
+    - body
+    - 8372
+    - 8518
+  label: 暑症似虛濕溫脈亦似虛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d23.h1s1
+    span:
+    - body
+    - 8518
+    - 8847
+  label: 寒熱病切忌早通大使
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d24.h1s1
+    span:
+    - body
+    - 8847
+    - 8959
+  label: 藥能對證雖和平品大病亦可奏效
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d25.h1s1
+    span:
+    - body
+    - 8959
+    - 9057
+  label: 藥既對證雖峻厲藥急病不得不用
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d26.h1s1
+    span:
+    - body
+    - 9057
+    - 9589
+  label: 治療一致
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d27.h1s1
+    span:
+    - body
+    - 9589
+    - 9751
+  label: 邪未盡而強止之害
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d28.h1s1
+    span:
+    - body
+    - 9751
+    - 9882
+  label: 邪未清不可補
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d29.h1s1
+    span:
+    - body
+    - 9882
+    - 9968
+  label: 虛中有實必先治實
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d30.h1s1
+    span:
+    - body
+    - 9968
+    - 10155
+  label: 求嗣方法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d31.h1s1
+    span:
+    - body
+    - 10155
+    - 10329
+  label: 轉女為男外用法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d32.h1s1
+    span:
+    - body
+    - 10329
+    - 10456
+  label: 小兒陰囊過大外治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d33.h1s1
+    span:
+    - body
+    - 10456
+    - 10678
+  label: 貼過外症之膏藥生下小兒之胞衣均須放高燥處
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d34.h1s1
+    span:
+    - body
+    - 10678
+    - 10954
+  label: 答張耕龍問內經秋傷於濕喻氏秋傷於燥之文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d35.h1s1
+    span:
+    - body
+    - 10954
+    - 11255
+  label: 答張耕龍問暑溫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d36.h1s1
+    span:
+    - body
+    - 11255
+    - 11416
+  label: 誤補之弊
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d37.h1s1
+    span:
+    - body
+    - 11416
+    - 11598
+  label: 滋膩之弊
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d38.h1s1
+    span:
+    - body
+    - 11598
+    - 11752
+  label: 破傷寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d39.h1s1
+    span:
+    - body
+    - 11752
+    - 12399
+  label: 論蕭鄂督辦吐血有可愈之方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d40.h1s1
+    span:
+    - body
+    - 12399
+    - 12947
+  label: 追論孫中山先生肝病亦有可愈之方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d41.h1s1
+    span:
+    - body
+    - 12947
+    - 13344
+  label: 瓜果能治犬病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d42.h1s1
+    span:
+    - body
+    - 13344
+    - 13692
+  label: 論甜尿病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d43.h1s1
+    span:
+    - body
+    - 13692
+    - 13745
+  label: 痰飲用補初亦相安
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d44.h1s1
+    span:
+    - body
+    - 13745
+    - 13848
+  label: 服寒熱藥皆能受亦皆不應者屬痰飲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d45.h1s1
+    span:
+    - body
+    - 13848
+    - 13987
+  label: 病夾痰飲忌升散忌涼滋必先運樞機
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d46.h1s1
+    span:
+    - body
+    - 13987
+    - 14047
+  label: 治病宜先治其實
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d47.h1s1
+    span:
+    - body
+    - 14047
+    - 14299
+  label: 論疫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d48.h1s1
+    span:
+    - body
+    - 14299
+    - 14522
+  label: 治疫不必拘司天在泉亦非必屬熱病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d49.h1s1
+    span:
+    - body
+    - 14522
+    - 14660
+  label: 女勞復陰陽易虛實有異
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d50.h1s1
+    span:
+    - body
+    - 14660
+    - 14916
+  label: 邪阻氣視覺冷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d51.h1s1
+    span:
+    - body
+    - 14916
+    - 14982
+  label: 晡熱夜熱有屬血瘀肺熱者
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d52.h1s1
+    span:
+    - body
+    - 14982
+    - 15155
+  label: 外導大便不通法各有所宜
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d53.h1s1
+    span:
+    - body
+    - 15155
+    - 15404
+  label: 外治小便不通法亦各有所宜
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d54.h1s1
+    span:
+    - body
+    - 15404
+    - 15546
+  label: 坐導婦女少腹瘕塊方亦各有所宜
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d55.h1s1
+    span:
+    - body
+    - 15546
+    - 15815
+  label: 藥性翻受胃變
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d56.h1s1
+    span:
+    - body
+    - 15815
+    - 16379
+  label: 疫症嗜睡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d57.h1s1
+    span:
+    - body
+    - 16379
+    - 16727
+  label: 論人身上生雉雀蝙蝠蛤蛇龜鱉等動物
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d58.h1s1
+    span:
+    - body
+    - 16727
+    - 16897
+  label: 同是肢痛不可屈伸其病原正對峙
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d59.h1s1
+    span:
+    - body
+    - 16897
+    - 17049
+  label: 痘症或涼瀉或溫補宜隨證變通
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d60.h1s1
+    span:
+    - body
+    - 17049
+    - 17111
+  label: 二至丸為滋皿清熱之劑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d61.h1s1
+    span:
+    - body
+    - 17111
+    - 17178
+  label: 扶桑丸為息風潤燥之劑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d62.h1s1
+    span:
+    - body
+    - 17178
+    - 17313
+  label: 溫病傳手不傳足之誤
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d65.h1s1
+    span:
+    - body
+    - 17313
+    - 17669
+  label: 外候答問敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d66.h1s1
+    span:
+    - body
+    - 17669
+    - 18111
+  label: 病症辨異敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d67.h1s1
+    span:
+    - body
+    - 18111
+    - 18675
+  label: 病症辨異敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d69.h1s1
+    span:
+    - body
+    - 18675
+    - 19281
+  label: 用藥禁忌書敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d70.h1s1
+    span:
+    - body
+    - 19281
+    - 19855
+  label: 用藥禁忌書後敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d75.h1s1
+    span:
+    - body
+    - 19855
+    - 20286
+  label: 溪醫案選摘要楔言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d78.h1s1
+    span:
+    - body
+    - 20286
+    - 20754
+  label: 溪醫論選跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d79.h1s1
+    span:
+    - body
+    - 20754
+    - 21087
+  label: 溪醫論選跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d80.h1s1
+    span:
+    - body
+    - 21087
+    - 21455
+  label: 溪醫論選跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d84.h1s1
+    span:
+    - body
+    - 21455
+    - 22410
+  label: 書嚴癡孫女科醫案選粹後
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eq069_jc_004-d87.h1s1
+    span:
+    - front
+    - 0
+    - 2063
+  label: 惜分陰軒醫案卷四序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d88.h1s1
+    span:
+    - body
+    - 0
+    - 645
+  label: 書蘇州醫報後
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d89.h1s1
+    span:
+    - body
+    - 645
+    - 770
+  label: 書薛季綱服藥論後
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d90.h1s1
+    span:
+    - body
+    - 770
+    - 1346
+  label: 附薛君服藥論原文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d91.h1s1
+    span:
+    - body
+    - 1346
+    - 1697
+  label: 書胡蕭梧君說瘧疾後
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d92.h1s1
+    span:
+    - body
+    - 1697
+    - 1968
+  label: 附胡君說瘧疾原文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d93.h1s1
+    span:
+    - body
+    - 1968
+    - 2235
+  label: 書陸壽人六淫說後
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d94.h1s1
+    span:
+    - body
+    - 2235
+    - 2894
+  label: 附陸君六淫說原文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d95.h1s1
+    span:
+    - body
+    - 2894
+    - 2990
+  label: 書張如先論九香蟲之功效後
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d96.h1s1
+    span:
+    - body
+    - 2990
+    - 3223
+  label: 附張君論九香蟲之功效原文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq069_jc_000-d97.h1s1
+    span:
+    - body
+    - 3223
+    - 3491
+  label: 答友問晦淫惑疾
+  type: section
+  level: 1
+hash: sha256:ba8050b7f1e735bfdee9265dbacc6cd51de0c1d0ca96ae993ae89df96b3da372
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
