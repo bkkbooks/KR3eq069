@@ -17,11 +17,11 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR3eq069_000.yaml, hash: 'sha256:3d29feb23be13abd0a8a87d26bff172904a37b9b6018a4e37b3792a31e2c48b6'}
-  - {seq: 4, filename: KR3eq069_004.yaml, hash: 'sha256:d37e89740f6167c8eba32aac2d957e8d62ece58d5b23204e4984634c75c1e01c'}
+  - {seq: 4, filename: KR3eq069_004.yaml, hash: 'sha256:406d58a03afb8888e26dd4cec67f483b6d62fc2ec7ea7281f9943ac7b7651177'}
   - {seq: 0, filename: KR3eq069_000.yaml, hash: 'sha256:3d29feb23be13abd0a8a87d26bff172904a37b9b6018a4e37b3792a31e2c48b6'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eq069_000.markers.yaml, hash: 'sha256:79c10a3dfc83d90383272104ef0813d4d5788adf68c64dd4ff6161eeddbbaae7'}
-  - {seq: 4, role: markers, filename: assets/KR3eq069_004.markers.yaml, hash: 'sha256:058de13001120f245d755b041a15123e3f16f4c4ba19ca65ae171a4356c2fe25'}
+  - {seq: 4, role: markers, filename: assets/KR3eq069_004.markers.yaml, hash: 'sha256:c5f7a5d46d32b4d35e82f30fabad272849a4ce64d8b446c591da3604c66615ba'}
 table_of_contents:
 - ref:
     seq: 0
@@ -877,7 +877,7 @@ table_of_contents:
     seq: 4
     marker_id: KR3eq069_jc_004-d87.h1s1
     span:
-    - front
+    - body
     - 0
     - 2063
   label: 惜分陰軒醫案卷四序
@@ -983,7 +983,7 @@ table_of_contents:
   label: 答友問晦淫惑疾
   type: section
   level: 1
-hash: sha256:3279b60eb0e7201689ff5b659ce2d80fa568b10549840774868926ac6c3e7c62
+hash: sha256:de10b1f1894ed93166968a6c80e0d65da458d32714a45a49dd1da75fefdccddd
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
